@@ -1,4 +1,4 @@
-# Genomics-Analyzing-TCGA-LGG-GBM--RNA-Seq# Computational-Genomics-Data-Analaysis
+# Genomics-Analyzing-TCGA-LGG-GBM-Data-RNA-Seq# Computational-Genomics-Data-Analaysis
 Data analysis on the patients that has GBM
 
 **Python 3 Libraries Used:**
